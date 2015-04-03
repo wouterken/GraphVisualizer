@@ -10,4 +10,4 @@ You can visualize A*, and Dijkstras search algorithms.
 ### Minimum spanning tree
 You can visualize Kruskals, Prims minimum spanning tree algorithms.
 
-![example](https://raw.githubusercontent.com/wouterken/convolution-filters/master/example.png?raw=true)
+![example](https://raw.githubusercontent.com/wouterken/GraphVisualizer/master/example.png?raw=true)
